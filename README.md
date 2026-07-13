@@ -36,13 +36,4 @@ Covered scenarios:
 
 Each check prints PASS or FAIL with the relevant signal or state values to the simulation console.
 
-## Running the simulation
-
-Any standard Verilog or SystemVerilog simulator will work, for example Vivado's simulator (XSIM) or Icarus Verilog:
-
-```bash
-iverilog -g2012 -o seq_sim Group13_SequenceDetector.v tb_Group13_Detector.sv
-vvp seq_sim
-```
-
-Waveforms can be viewed with your simulator's waveform viewer, such as Vivado's integrated waveform window or GTKWave for Icarus.
+## the simulation
