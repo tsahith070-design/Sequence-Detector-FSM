@@ -37,3 +37,6 @@ Covered scenarios:
 Each check prints PASS or FAIL with the relevant signal or state values to the simulation console.
 
 ## the simulation
+
+![Simulation Waveform](waveform.png)
+
